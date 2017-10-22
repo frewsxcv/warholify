@@ -1,0 +1,7 @@
+[package]
+name = "warholify"
+version = "0.1.0"
+authors = ["Corey Farwell <coreyf@rwell.org>"]
+
+[dependencies]
+image = "0.17"
